@@ -1,3 +1,16 @@
+touch autoclose.lua
+w
+touch map_function.lua
+touch file_explorer.lua
+touch fuzzy_finder.lua
+touch tree_open.lua
+rename cmp.lua.old
+touc
+touch test_file.py
+mkdir colors
+touch my_scheme.vim
+touch lushwal.vim
+open_with 2
 touch
 rename colors.lua.old
 rename colors.lua
@@ -15,6 +28,7 @@ touch rule.py
 search finan
 touch neighborhood.py
 search venv
+delete
 search dotfiles
 search nixos
 search dot
@@ -30,21 +44,7 @@ search urelah
 mkdir 2026
 touch research.md
 cd .pandoc
+
 rename imitchell_research_narrative.pdf
 rename imitchell_research_narrative.md
-cd .local
-cd .config
-search pywal
-search wal
-renaem pywal.toml
-rename pywal.toml.BAK
-touc
-rename pywal.toml_2
-touch pywal.toml
-open_with 2
-rena
-delete
-rename pywal.toml
-w
-quit!
-
+search Wallpapers
