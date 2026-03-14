@@ -1,0 +1,18 @@
+[general]
+import = [
+    "~/.config/alacritty/configs/fonts.toml",
+    "~/.config/alacritty/configs/colors.toml",
+    "~/.config/alacritty/configs/framework-13-2025_adjustments.toml"
+]
+live_config_reload = true
+
+[window]
+# opacity = 0.95  # opacity looks cool, but is it necessary?
+
+[window.padding]
+x = 5
+y = 5
+
+[window.dimensions]
+columns = 90
+lines = 25

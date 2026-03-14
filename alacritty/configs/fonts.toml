@@ -1,0 +1,9 @@
+[font]
+normal = { family = "JuliaMono Nerd Font", style = "Regular" }
+italic = { family = "JuliaMono Nerd Font", style = "Italic" }
+bold = { family = "JuliaMono Nerd Font", style = "Bold" }
+bold_italic = { family = "JuliaMono Nerd Font", style = "Bold Italic" }
+
+[font.offset]
+x = 0
+y = 1

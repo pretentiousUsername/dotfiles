@@ -1,0 +1,3 @@
+idle_bg = "#ffffff"
+idle_fg = "x:color0"
+good_bg = "x:color"

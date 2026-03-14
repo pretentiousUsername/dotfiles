@@ -1,0 +1,9 @@
+[submodule "ranger/plugins/ranger_devicons"]
+	path = ranger/plugins/ranger_devicons
+	url = git@github.com:alexanderjeurissen/ranger_devicons.git
+[submodule "ranger/plugins/ranger-archives"]
+	path = ranger/plugins/ranger-archives
+	url = git@github.com:maximtrp/ranger-archives.git
+[submodule "rofi_apps/rofi-power-menu"]
+	path = rofi_apps/rofi-power-menu
+	url = https://github.com/jluttine/rofi-power-menu

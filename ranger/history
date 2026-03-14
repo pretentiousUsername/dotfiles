@@ -1,0 +1,50 @@
+touch
+rename colors.lua.old
+rename colors.lua
+touch colors.lua
+search lualine
+mkdir old
+touch .annoying_names.md
+touch rules.py
+search programs
+mkdir rules
+mkdir neighborhood
+mkdir cellular_automata
+touch __init__.py
+touch rule.py
+search finan
+touch neighborhood.py
+search venv
+search dotfiles
+search nixos
+search dot
+cd .local/share
+search nvim
+cd .local/state/nvim
+touch test.py
+cd Projects/dotfiles/nixos
+search Mitchell
+rename Mitchell_Ian_phys362_exam2.pdf
+mkdir urelah_scholarships
+search urelah
+mkdir 2026
+touch research.md
+cd .pandoc
+rename imitchell_research_narrative.pdf
+rename imitchell_research_narrative.md
+cd .local
+cd .config
+search pywal
+search wal
+renaem pywal.toml
+rename pywal.toml.BAK
+touc
+rename pywal.toml_2
+touch pywal.toml
+open_with 2
+rena
+delete
+rename pywal.toml
+w
+quit!
+
