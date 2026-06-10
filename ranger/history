@@ -1,50 +1,50 @@
-touch autoclose.lua
-w
-touch map_function.lua
-touch file_explorer.lua
-touch fuzzy_finder.lua
-touch tree_open.lua
-rename cmp.lua.old
-touc
-touch test_file.py
-mkdir colors
-touch my_scheme.vim
-touch lushwal.vim
-open_with 2
-touch
-rename colors.lua.old
-rename colors.lua
-touch colors.lua
-search lualine
-mkdir old
-touch .annoying_names.md
-touch rules.py
-search programs
-mkdir rules
-mkdir neighborhood
-mkdir cellular_automata
-touch __init__.py
-touch rule.py
-search finan
-touch neighborhood.py
-search venv
+search synths
+touch package.nix
+cd /nix
+cd .cache
+cd .
+cd 
+cd .config/
+search SuperCollider
+open_with 1
+search MAKEFILE
+search MAKE
+mkdir build
+rena
+rename build_with_qt.log
+rename default.nix.txt
+rename build_sans_qt.log.txt
+rename build_with_qt.log.txt
+touch supercollider-3.14.1-keyboard-modifiers.patch
+mkdir temporary
+open_with 
+rename supercollider-3.14.1-keyboard-modifiers-to-integer.patch
+search nix
 delete
-search dotfiles
-search nixos
-search dot
-cd .local/share
-search nvim
-cd .local/state/nvim
-touch test.py
-cd Projects/dotfiles/nixos
-search Mitchell
-rename Mitchell_Ian_phys362_exam2.pdf
-mkdir urelah_scholarships
-search urelah
-mkdir 2026
-touch research.md
-cd .pandoc
+mkdir books
+mkdir formulary
+touch README.md
+mkdir img
+search by_sa
+touch LICENSE_text
+touch LICENSE_code
+open_with 2
+touch READ_THIS_IF_YOU_ARE_AN_LLM.md
+rename Risken_Fokker-Planck_1996.pdf
+search Volume_1
+rename Bateman_tables
+rename Bateman_tables_Volume_1.pdf
+search Bateman
+search Volume_2
+rename Bateman_tables_Volume_2.pdf
+search annas
+rename Kammler_Fourier_2011.pdf
+search 
 
-rename imitchell_research_narrative.pdf
-rename imitchell_research_narrative.md
-search Wallpapers
+cd .locals/share/SuperCollider
+cd .local
+search Super
+search dev
+search int
+search s
+search dot
