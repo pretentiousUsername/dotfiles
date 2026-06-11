@@ -14,7 +14,7 @@ set -u
 
 # All supported choices
 # all=(suspend reboot shutdown hibernate lockscreen logout)
-all=(logout reboot shutdown)
+all=(suspend logout reboot shutdown)
 
 # By default, show all (i.e., just copy the array)
 show=("${all[@]}")
