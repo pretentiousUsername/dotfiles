@@ -1,9 +1,7 @@
-search synths
 touch package.nix
 cd /nix
 cd .cache
 cd .
-cd 
 cd .config/
 search SuperCollider
 open_with 1
@@ -47,4 +45,6 @@ search Super
 search dev
 search int
 search s
+search i3
+cd 
 search dot
