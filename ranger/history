@@ -1,13 +1,3 @@
-rename SC3Plugins-3.14.0
-rename SC3-plugins-3.14.0
-search Moog
-search supercollider
-search dot
-search music
-rename MidiControllers.sc
-rename Rhythm.sc
-touch playing_with_dafx.scd
-rename customized_schroeder_reverb.scd
 search therapy
 cd nvim
 cd .
@@ -47,4 +37,14 @@ cd .local
 search themes
 cd .themes
 
+rename superfluidll
+search rofi
+cd 
+search Xresources
+rename sway
 delete
+touch sway.
+touch 
+search Wallpapers
+touch setbg.sh
+cd .co

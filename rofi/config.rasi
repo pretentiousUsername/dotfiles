@@ -3,3 +3,4 @@ configuration {
 }
 
 @import "themes/my-rofi-pywal-colors.rasi"
+/*@import "themes/colors-rofi-dark.rasi"*/
