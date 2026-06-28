@@ -1,50 +1,50 @@
-touch package.nix
-cd /nix
-cd .cache
-cd .
-cd .config/
-search SuperCollider
-open_with 1
-search MAKEFILE
-search MAKE
-mkdir build
-rena
-rename build_with_qt.log
-rename default.nix.txt
-rename build_sans_qt.log.txt
-rename build_with_qt.log.txt
-touch supercollider-3.14.1-keyboard-modifiers.patch
-mkdir temporary
-open_with 
-rename supercollider-3.14.1-keyboard-modifiers-to-integer.patch
-search nix
-delete
-mkdir books
-mkdir formulary
-touch README.md
-mkdir img
-search by_sa
-touch LICENSE_text
-touch LICENSE_code
-open_with 2
-touch READ_THIS_IF_YOU_ARE_AN_LLM.md
-rename Risken_Fokker-Planck_1996.pdf
-search Volume_1
-rename Bateman_tables
-rename Bateman_tables_Volume_1.pdf
-search Bateman
-search Volume_2
-rename Bateman_tables_Volume_2.pdf
-search annas
-rename Kammler_Fourier_2011.pdf
-search 
-
-cd .locals/share/SuperCollider
-cd .local
-search Super
-search dev
-search int
-search s
-search i3
-cd 
+rename SC3Plugins-3.14.0
+rename SC3-plugins-3.14.0
+search Moog
+search supercollider
 search dot
+search music
+rename MidiControllers.sc
+rename Rhythm.sc
+touch playing_with_dafx.scd
+rename customized_schroeder_reverb.scd
+search therapy
+cd nvim
+cd .
+search lsp
+touch grain_delay.scd
+touch BufGlitcher.sc
+search Rhythm
+search s
+touch Rhythm.schelp
+open_with 2
+search Phasor
+touch Reverb.sc
+search Reverb
+search StringTools
+touch RhythmTools.sc
+touch RhythmComputer.sc
+search pkgs
+search dev
+search nix
+search de
+search int
+search super
+rename pywal
+rename _color-palette-pywal.scss
+open_with 
+rename _color-palette-pywal.scss.base
+rename 
+shell y
+rename _color-palette-pywal.scss.toml
+search wal
+search pywal
+search 
+search wpg
+search wpgtk
+open_with 1
+cd .local
+search themes
+cd .themes
+
+delete

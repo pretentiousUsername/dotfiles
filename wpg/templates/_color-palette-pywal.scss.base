@@ -1,0 +1,100 @@
+
+// [colors.normal]
+// red = "{color1}"
+// green = "{color2}"
+// yellow = "{color3}"
+// blue = "{color4}"
+// magenta = "{color5}"
+// cyan = "{color6}"
+// white = "{color7}"
+// 
+// [colors.bright]
+// red = "{color9}"
+// green = "{color10}"
+// yellow = "{color11}"
+// blue = "{color12}"
+// magenta = "{color13}"
+// cyan = "{color14}"
+// white = "{color15}"
+// 
+// [colors.dim]
+// red = "{color9}"
+// green = "{color13}"
+// yellow = "{color11}"
+// blue = "{color12}"
+// magenta = "{color10}"
+// cyan = "{color14}"
+// white = "{color8}"
+
+// Pywal color theme
+
+// Red
+$red-light: {color13};
+$red-dark: {color13};
+
+// Pink
+$pink-light: {color6};
+$pink-dark: {color6};
+
+// Purple
+$purple-light: {color5};
+$purple-dark: {color5}
+
+// Blue
+$blue-light: {color11};
+$blue-dark: {color11};
+
+// Teal
+$teal-light: {color14};
+$teal-dark: {color14};
+
+// Green
+$green-light: {color13};
+$green-dark: {color13};
+
+// Yellow
+$yellow-light: {color13};
+$yellow-dark: {color13};
+
+// Orange
+$orange-light: {color14};
+$orange-dark: {color14};
+
+// Grey
+$grey-050: {color1};
+$grey-100: {color2};
+$grey-150: {color3};
+$grey-200: {color4};
+$grey-250: {color1};
+$grey-300: {color2};
+$grey-350: {color3};
+$grey-400: {color4};
+$grey-450: {color1};
+$grey-500: {color2};
+$grey-550: {color3};
+$grey-600: {color4};
+$grey-650: {color1};
+$grey-700: {color2};
+$grey-750: {color3};
+$grey-800: {color4};
+$grey-850: {color1};
+$grey-900: {color2};
+$grey-950: {color3};
+
+// White
+$white: {color15};
+
+// Black
+$black: {color0};
+
+// Button
+$button-close: if($variant == 'light', $red-dark, $red-light);
+$button-max: if($variant == 'light', $green-dark, $green-light);
+$button-min: if($variant == 'light', $yellow-dark, $yellow-light);
+
+// Link
+$links: if($variant == 'light', #04a5e5, #99d1db);
+
+// Theme
+$default-light: $blue-light;
+$default-dark: $blue-dark;

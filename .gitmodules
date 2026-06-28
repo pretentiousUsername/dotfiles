@@ -7,3 +7,9 @@
 [submodule "rofi_apps/rofi-power-menu"]
 	path = rofi_apps/rofi-power-menu
 	url = https://github.com/jluttine/rofi-power-menu
+[submodule "Colloid-gtk-theme"]
+	path = Colloid-gtk-theme
+	url = git@github.com:vinceliuice/Colloid-gtk-theme.git
+[submodule "pywal16-libadwaita"]
+	path = pywal16-libadwaita
+	url = git@github.com:eylles/pywal16-libadwaita.git

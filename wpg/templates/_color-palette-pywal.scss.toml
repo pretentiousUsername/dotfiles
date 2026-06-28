@@ -1,0 +1,100 @@
+
+// [colors.normal]
+// red = "#4E5051"
+// green = "#635B5E"
+// yellow = "#495C66"
+// blue = "#6F696D"
+// magenta = "#A03949"
+// cyan = "#9F6963"
+// white = "#c3c7c8"
+// 
+// [colors.bright]
+// red = "#4E5051"
+// green = "#635B5E"
+// yellow = "#495C66"
+// blue = "#6F696D"
+// magenta = "#A03949"
+// cyan = "#9F6963"
+// white = "#c3c7c8"
+// 
+// [colors.dim]
+// red = "#4E5051"
+// green = "#A03949"
+// yellow = "#495C66"
+// blue = "#6F696D"
+// magenta = "#635B5E"
+// cyan = "#9F6963"
+// white = "#5e7274"
+
+// Pywal color theme
+
+// Red
+$red-light: #A03949;
+$red-dark: #A03949;
+
+// Pink
+$pink-light: #9F6963;
+$pink-dark: #9F6963;
+
+// Purple
+$purple-light: #A03949;
+$purple-dark: #A03949
+
+// Blue
+$blue-light: #495C66;
+$blue-dark: #495C66;
+
+// Teal
+$teal-light: #9F6963;
+$teal-dark: #9F6963;
+
+// Green
+$green-light: #A03949;
+$green-dark: #A03949;
+
+// Yellow
+$yellow-light: #A03949;
+$yellow-dark: #A03949;
+
+// Orange
+$orange-light: #9F6963;
+$orange-dark: #9F6963;
+
+// Grey
+$grey-050: #4E5051;
+$grey-100: #635B5E;
+$grey-150: #495C66;
+$grey-200: #6F696D;
+$grey-250: #4E5051;
+$grey-300: #635B5E;
+$grey-350: #495C66;
+$grey-400: #6F696D;
+$grey-450: #4E5051;
+$grey-500: #635B5E;
+$grey-550: #495C66;
+$grey-600: #6F696D;
+$grey-650: #4E5051;
+$grey-700: #635B5E;
+$grey-750: #495C66;
+$grey-800: #6F696D;
+$grey-850: #4E5051;
+$grey-900: #635B5E;
+$grey-950: #495C66;
+
+// White
+$white: #c3c7c8;
+
+// Black
+black = #102224;
+
+// Button
+$button-close: if($variant == 'light', $red-dark, $red-light);
+$button-max: if($variant == 'light', $green-dark, $green-light);
+$button-min: if($variant == 'light', $yellow-dark, $yellow-light);
+
+// Link
+$links: if($variant == 'light', #04a5e5, #99d1db);
+
+// Theme
+$default-light: $blue-light;
+$default-dark: $blue-dark;
