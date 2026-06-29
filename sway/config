@@ -9,6 +9,8 @@
 #
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 
+# Set output resolution and scaling
+include ~/.config/sway/configs/output.conf
 include ~/.config/sway/configs/gaps.conf
 
 set $mod Mod4
@@ -231,7 +233,7 @@ include ~/.config/sway/configs/bar.conf
 # # Start i3bar to display a workspace bar (plus the system information i3status
 # # finds out, if available)
 # bar {
-#         status_command i3blocks
+#         status_command i3status-rs
 # }
 
 # This is basically only for debugging
