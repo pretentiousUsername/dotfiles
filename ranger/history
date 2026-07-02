@@ -1,24 +1,3 @@
-cd nvim
-cd .
-search lsp
-touch grain_delay.scd
-touch BufGlitcher.sc
-search Rhythm
-search s
-touch Rhythm.schelp
-open_with 2
-search Phasor
-touch Reverb.sc
-search Reverb
-search StringTools
-touch RhythmTools.sc
-touch RhythmComputer.sc
-search pkgs
-search dev
-search nix
-search de
-search int
-search super
 rename pywal
 rename _color-palette-pywal.scss
 open_with 
@@ -35,16 +14,37 @@ open_with 1
 cd .local
 search themes
 cd .themes
-
 rename superfluidll
 search rofi
 cd 
 search Xresources
 rename sway
-delete
 touch sway.
 touch 
 search Wallpapers
 touch setbg.sh
 cd .co
 touch output.conf
+touch programs.nix
+rename packages
+touch services.nix
+touch superfluid.nix
+touch pack
+mkdir packages
+touch packages.nix
+rename packages.nixr
+default.nix
+rename default.i
+rename editors.nix
+rename default.nix
+rename hero-launcher.nix
+rename modules
+
+touch default.nix
+rename configuration.nix
+open_with 2
+rename cheese.nix
+rename chromium.nix
+rename misc.nix
+delete
+shell l

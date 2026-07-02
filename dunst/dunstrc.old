@@ -109,7 +109,7 @@
     frame_width = 3
 
     # Defines color of the frame around the notification window.
-    frame_color = "{color15}"
+    frame_color = "#aaaaaa"
 
     # Size of gap to display between notifications - requires a compositor.
     # If value is greater than 0, separator_height will be ignored and a border
@@ -122,7 +122,7 @@
     #  * auto: dunst tries to find a color fitting to the background;
     #  * foreground: use the same color as the foreground;
     #  * frame: use the same color as the frame;
-    #  * anything else will be interpreted as an X color.
+    #  * anything else will be interpreted as a X color.
     separator_color = frame
 
     # Sort type.
@@ -142,7 +142,7 @@
 
     ### Text ###
 
-    font = Monospace 9
+    font = Monospace 8
 
     # The spacing between lines.  If the height is smaller than the
     # font height, it will get raised to the font height.
@@ -358,15 +358,15 @@
 [urgency_low]
     # IMPORTANT: colors have to be defined in quotation marks.
     # Otherwise the "#" and following would be interpreted as a comment.
-    background = "{color0}"
-    foreground = "{color15}"
+    background = "#222222"
+    foreground = "#888888"
     timeout = 10
     # Icon for notifications with low urgency
     default_icon = dialog-information
 
 [urgency_normal]
-    background = "{color0}"
-    foreground = "{color5}"
+    background = "#285577"
+    foreground = "#ffffff"
     timeout = 10
     override_pause_level = 30
     # Icon for notifications with normal urgency
