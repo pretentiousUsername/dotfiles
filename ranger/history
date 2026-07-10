@@ -1,26 +1,8 @@
-rename pywal
-rename _color-palette-pywal.scss
-open_with 
-rename _color-palette-pywal.scss.base
-rename 
-shell y
-rename _color-palette-pywal.scss.toml
-search wal
-search pywal
-search 
-search wpg
-search wpgtk
-open_with 1
-cd .local
-search themes
-cd .themes
-rename superfluidll
 search rofi
 cd 
 search Xresources
 rename sway
 touch sway.
-touch 
 search Wallpapers
 touch setbg.sh
 cd .co
@@ -39,12 +21,30 @@ rename editors.nix
 rename default.nix
 rename hero-launcher.nix
 rename modules
-
 touch default.nix
 rename configuration.nix
-open_with 2
 rename cheese.nix
 rename chromium.nix
 rename misc.nix
-delete
 shell l
+rename a_course_in_theoretical_physics
+open_with 2
+mkdir old
+delete
+shell 
+cd .config
+search sync
+open_with 
+search Graves
+search writing
+search dunst
+search dot
+touch 
+touch notes.md
+rename devenvj
+mkdir kapitsa
+touch configuration.nix
+search Wall
+
+rename wallpaper.png
+rename my_cool_wallpaper.png

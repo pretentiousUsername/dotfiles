@@ -1,91 +1,91 @@
 
 // [colors.normal]
-// red = "#4E5051"
-// green = "#635B5E"
-// yellow = "#495C66"
-// blue = "#6F696D"
-// magenta = "#A03949"
-// cyan = "#9F6963"
-// white = "#c3c7c8"
+// red = "#585FB1"
+// green = "#5573DE"
+// yellow = "#9172A0"
+// blue = "#3D81F9"
+// magenta = "#5A8AFB"
+// cyan = "#6998FE"
+// white = "#c1c1c3"
 // 
 // [colors.bright]
-// red = "#4E5051"
-// green = "#635B5E"
-// yellow = "#495C66"
-// blue = "#6F696D"
-// magenta = "#A03949"
-// cyan = "#9F6963"
-// white = "#c3c7c8"
+// red = "#585FB1"
+// green = "#5573DE"
+// yellow = "#9172A0"
+// blue = "#3D81F9"
+// magenta = "#5A8AFB"
+// cyan = "#6998FE"
+// white = "#c1c1c3"
 // 
 // [colors.dim]
-// red = "#4E5051"
-// green = "#A03949"
-// yellow = "#495C66"
-// blue = "#6F696D"
-// magenta = "#635B5E"
-// cyan = "#9F6963"
-// white = "#5e7274"
+// red = "#585FB1"
+// green = "#5A8AFB"
+// yellow = "#9172A0"
+// blue = "#3D81F9"
+// magenta = "#5573DE"
+// cyan = "#6998FE"
+// white = "#565669"
 
 // Pywal color theme
 
 // Red
-$red-light: #A03949;
-$red-dark: #A03949;
+$red-light: #5A8AFB;
+$red-dark: #5A8AFB;
 
 // Pink
-$pink-light: #9F6963;
-$pink-dark: #9F6963;
+$pink-light: #6998FE;
+$pink-dark: #6998FE;
 
 // Purple
-$purple-light: #A03949;
-$purple-dark: #A03949
+$purple-light: #5A8AFB;
+$purple-dark: #5A8AFB
 
 // Blue
-$blue-light: #495C66;
-$blue-dark: #495C66;
+$blue-light: #9172A0;
+$blue-dark: #9172A0;
 
 // Teal
-$teal-light: #9F6963;
-$teal-dark: #9F6963;
+$teal-light: #6998FE;
+$teal-dark: #6998FE;
 
 // Green
-$green-light: #A03949;
-$green-dark: #A03949;
+$green-light: #5A8AFB;
+$green-dark: #5A8AFB;
 
 // Yellow
-$yellow-light: #A03949;
-$yellow-dark: #A03949;
+$yellow-light: #5A8AFB;
+$yellow-dark: #5A8AFB;
 
 // Orange
-$orange-light: #9F6963;
-$orange-dark: #9F6963;
+$orange-light: #6998FE;
+$orange-dark: #6998FE;
 
 // Grey
-$grey-050: #4E5051;
-$grey-100: #635B5E;
-$grey-150: #495C66;
-$grey-200: #6F696D;
-$grey-250: #4E5051;
-$grey-300: #635B5E;
-$grey-350: #495C66;
-$grey-400: #6F696D;
-$grey-450: #4E5051;
-$grey-500: #635B5E;
-$grey-550: #495C66;
-$grey-600: #6F696D;
-$grey-650: #4E5051;
-$grey-700: #635B5E;
-$grey-750: #495C66;
-$grey-800: #6F696D;
-$grey-850: #4E5051;
-$grey-900: #635B5E;
-$grey-950: #495C66;
+$grey-050: #585FB1;
+$grey-100: #5573DE;
+$grey-150: #9172A0;
+$grey-200: #3D81F9;
+$grey-250: #585FB1;
+$grey-300: #5573DE;
+$grey-350: #9172A0;
+$grey-400: #3D81F9;
+$grey-450: #585FB1;
+$grey-500: #5573DE;
+$grey-550: #9172A0;
+$grey-600: #3D81F9;
+$grey-650: #585FB1;
+$grey-700: #5573DE;
+$grey-750: #9172A0;
+$grey-800: #3D81F9;
+$grey-850: #585FB1;
+$grey-900: #5573DE;
+$grey-950: #9172A0;
 
 // White
-$white: #c3c7c8;
+$white: #c1c1c3;
 
 // Black
-$black: #102224;
+$black: #070710;
 
 // Button
 $button-close: if($variant == 'light', $red-dark, $red-light);
